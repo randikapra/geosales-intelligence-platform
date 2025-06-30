@@ -1,0 +1,1 @@
+-- core_schema.sql - Part of GeoSales Intelligence Platform

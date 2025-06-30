@@ -1,0 +1,1 @@
+-- dealers.sql - Part of GeoSales Intelligence Platform

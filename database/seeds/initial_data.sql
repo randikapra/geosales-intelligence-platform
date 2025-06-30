@@ -1,0 +1,1 @@
+-- initial_data.sql - Part of GeoSales Intelligence Platform
