@@ -214,10 +214,10 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 ## 🌟 Support
 
-- 📧 Email: support@geosales-platform.com
-- 📞 Phone: +94-XXX-XXX-XXX
-- 💬 Slack: [Join our community](https://slack.geosales-platform.com)
-- 📖 Documentation: [Read the docs](https://docs.geosales-platform.com)
+- 📧 Email: 
+- 📞 Phone: 
+- 💬 Slack: 
+- 📖 Documentation: 
 
 ---
 
